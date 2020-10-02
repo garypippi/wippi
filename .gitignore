@@ -1,0 +1,3 @@
+*.o
+/wippi
+/.ccls-cache
